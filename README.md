@@ -22,7 +22,7 @@ Use it as you want
 
 
 ## Screenshots
-<img src="img/spce.png">
+<img src="img/space.png">
 
 ## Web App in Web Site
 http://oguzhancart.likesyou.org/
